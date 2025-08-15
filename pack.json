@@ -1,0 +1,9 @@
+{
+  "name": "permaweb-pack",
+  "version": "1.0.0",
+  "title": "Permaweb Development Pack",
+  "description": "Actionable prompts for building on Arweave and the permaweb",
+  "author": "DPS",
+  "homepage": "https://github.com/dpshade/permaweb-pack",
+  "tags": ["permaweb", "arweave", "ao", "development", "web3"]
+}
